@@ -25,7 +25,7 @@ public class HashTest {
 		 Student s2 = new Student("varakanth","Dallas");
 		 Student s3 = new Student("kalyan","hyderabad");
 		 Student s4 = new Student("venkat","vijayawada");
-		 Student s5 = new Student("vinod","hyderabad");
+		 Student s5 = new Student("Git","Practice");
 
 		 
 		 Set<Student> hash = new HashSet<>();
